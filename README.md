@@ -2,5 +2,5 @@
 
 ## Script:
 ```lua
-loadstring(game:HttpGet("https://github.com/AltLexon/Fix-It-Up"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AltLexon/Fix-it-up/refs/heads/main/main.lua"))()
 ```
