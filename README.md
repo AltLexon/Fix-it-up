@@ -63,8 +63,9 @@ It includes systems for car management, teleportation, player modifications, aut
 ---
 
 # Script
-Place your script here.
-
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AltLexon/Fix-it-up/refs/heads/main/main.lua"))()
+```
 ---
 
 # Discord
