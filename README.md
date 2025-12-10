@@ -69,7 +69,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AltLexon/Fix-it-up/re
 ---
 
 # Discord
-https://discord.gg/qGfuUVHnZU
+https://discord.gg/scriptunion
 
 ---
 
