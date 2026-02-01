@@ -69,9 +69,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AltLexon/Fix-it-up/re
 ---
 
 # Discord
-https://discord.gg/scriptunion
+https://discord.gg/qGfuUVHnZU
 
 ---
 
 # Owner
-**lexon**
+**.lexon**
